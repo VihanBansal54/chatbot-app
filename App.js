@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler'; // Required for navigation
 import React from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import AppNavigator from './navigation/AppNavigator';
